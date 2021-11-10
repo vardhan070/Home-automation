@@ -1,5 +1,4 @@
 # Home-automation
-
 There is an increasing demand for smart homes,  where 
 appliances react automatically to changing  environmental conditions and can be easily  controlled through one common device.
 
@@ -19,3 +18,15 @@ MQTT:
 []It was designed by Andy Stanford-Clark (IBM) and Arlen Nipper in 1999 for connecting Oil Pipeline telemetry systems over satellite.
 
 []There are many MQTT brokers available that you can use for testing and for real applications.
+
+
+Components:
+Raspberry Pi 2,
+L293d motor driver IC,
+DC motors(Represents Fan),
+Relay,
+Electric Bulb.
+
+
+
+The python file is saved in Raspberry Pi (Using VIM editor). The MQTT (MQTT is used for data exchange between constrained devices and server applications) is used to transfer the commands to the Raspberry Pi and also to receive the sensor data continuously from device to Mobile.
