@@ -4,9 +4,7 @@ appliances react automatically to changing  environmental conditions and�
 
 This project presents a possible solution whereby the user controls devices by using their existing mobile phone where control is communicated to the Microcontroller from a mobile phone through MQTT.
 
-Home automation involves introducing a degree of computerized or automatic control to certain electrical and electronics system in a building.
-These involve lighting, temperature control, etc.., this paper demonstrate a simple home automation system which contains a remote mobile host controller and several client module (home appliances).
-The client modules communicate with host controllers through internet over the servers available in MQTT.
+Home automation involves introducing a degree of computerized or automatic control to certain electrical and electronics systems in a building. These involve lighting, temperature control, etc.., this paper demonstrates a simple home automation system that contains a remote mobile host controller and several client modules (home appliances). The client modules communicate with host controllers through the internet over the servers available in MQTT.
 
 ![1](https://user-images.githubusercontent.com/69961625/122793490-e57ee680-d2d8-11eb-8ea4-8debaf5b76ef.png)
 
